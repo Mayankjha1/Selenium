@@ -1,3 +1,6 @@
+// This is the Scripts that open salesforce and create a Account record using this Script
+
+
 import java.time.Duration;
 import java.util.NoSuchElementException;
 
